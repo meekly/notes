@@ -1,0 +1,7 @@
+NodeJS native cluster - использование NodeJS
+- https://www.webdraftt.com/tutorial/nodejs/cluster
+- http://learnboost.github.io/cluster/docs/cli.html
+
+http://citforum.ck.ua/internet/webservers/web_cluster/
+
+https://www.ibm.com/developerworks/ru/library/l-linux-ha/
